@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>December 2. 1661. By the Corporation of Trinity-House, London. Whereas the Kings most excellent Majesty Charles the Second, and several former Kings and Queens of England, by their letters patents under the great seal, have given full power and authority to the master and brethren of Trinity-House, to make by-laws and orders for the good government and preventing disorders in navigation; and thereupon we the persons so authorized by the said charter, have in puriuance thereof made certain by-laws and orders. viz.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08605</idno>
+            <idno type="STC">Wing B6362A</idno>
+            <idno type="STC">ESTC R214379</idno>
+            <idno type="EEBO-CITATION">64551016</idno>
+            <idno type="OCLC">ocm 64551016</idno>
+            <idno type="VID">184406</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184406)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>December 2. 1661. By the Corporation of Trinity-House, London. Whereas the Kings most excellent Majesty Charles the Second, and several former Kings and Queens of England, by their letters patents under the great seal, have given full power and authority to the master and brethren of Trinity-House, to make by-laws and orders for the good government and preventing disorders in navigation; and thereupon we the persons so authorized by the said charter, have in puriuance thereof made certain by-laws and orders. viz.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Askew, James.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: "James Askew, clerk to the corporation."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trinity House (London, England) --  Early works to 1800.</term>
+               <term>Merchant mariners --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="maritime_ordinances">
+            <pb facs="tcp:184406:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of Trinity House, featuring a shield bearing a St George's Cross with ships in each quarter, surmounted by a crowned lion rampant regardant, bearing a sword and standing upon a helmet with mantling with acanthus decoration</figDesc>
+                  <head>
+                     <q>TRINITAS · IN · VNITATE ·</q>
+                  </head>
+               </figure> 
+               <hi>December</hi> 2. 1661. By the CORPORATION of TRINITY-HOUSE, LONDON.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Kings moſt excellent Majeſty <hi>Charles</hi> the Second, and ſeveral former Kings and Queens of <hi>England,</hi> by their Letters Patents under the Great Seal, have given full Power and Authority to the Maſter and Brethren of <hi>Trinity-Houſe,</hi> to make by-Laws and Orders for the good Government and preventing Diſorders in Navigation; and thereupon we the Perſons ſo Authori<g ref="char:EOLhyphen"/>zed by the ſaid Charter, have in purſuance thereof made certain by-Laws and Orders: <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>Item.</hi> It is Ordered, That if at any time hereafter any Mariner or Seaman, having firſt Shipped himſelf with any Maſter of a Ship for a Voyage, ſhall deſert and leave the ſaid Maſter, and Ship himſelf with another Maſter, that the Maſter with whom he goeth that Voyage, ſhall upon notice given on the behalf of the Corporation, detain Two ſhillings in every Pound of the Wages of the ſaid Mariner or Seaman for the time he ſerveth in the ſaid Ship, to be paid to the Corporation for the uſe of the Poor thereof.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>If any Man ſhall Swear, Curſe, or Blaſpheme the Name of God, for every ſuch Offence he ſhall pay to the Poors Box</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>If any Man ſhall lie aſhore, not having the Maſters conſent, for his firſt Offence he ſhall pay to the Poors Box</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>For his ſecond Offence</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>For his third Offence</cell>
+                     <cell>0</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>For his fourth Offence</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">And ſo to advance according to proportion ſo often as the ſaid Offence ſhall be committed.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Man ſhall be Obſtinate and Stubborn in not obeying the Maſters Commands, or any of his Mates, or Boatſwain, in the Maſters abſence, he ſhall pay for every ſuch Default to the Poors Box</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>If any Man ſhall tell a Lye, and be evicted of the ſame by proof, he ſhall pay to the Poors Box</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>If any Man ſhall abſent himſelf from Prayers, and not make his appearance at ringing of the Bell, he then being in health; for every ſuch Offence he ſhall pay to the Poors Box</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>If any Man be Drunk, for every ſuch Fault he ſhall pay to the Poors Box</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>If any Man ſhall be abuſive when he is Drunk, for every ſuch Offence he ſhall pay to the Poors Box</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Item.</hi> It is Ordered, That every Commander or Maſter of a Ship that Ships any Marriner or Seaman to Sail with him upon any Voyage to Sea ſhall take it in Writing under his Hand upon what Accompt he is Entertained, and alſo that he doth ſubmit himſelf to the by-Laws of <hi>Trinity-Houſe.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Item.</hi> Whereas by reaſon of Powder being taken aboard Ships before their departing out of the River of <hi>Thames,</hi> and by keeping Powder aboard at their coming home in the time of their unlading: As alſo by heating Pitch and Tar aboard Ships, there hath often happened great Loſſes to Mer<g ref="char:EOLhyphen"/>chants and Owners, It is Ordered, that no Ships ſhall receive their ſtore of Powder aboard for the Voyage, above Four and twenty hours before they do ſet Sail from <hi>Blackwall</hi> or <hi>Woolwich</hi> directly for <hi>Graveſend</hi> outward Bound, upon penalty of</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item.</hi> That all Ships homeward Bound do put a ſhore their ſtore of Powder within Twenty four hours after their coming to an Anchor in the Ri<g ref="char:EOLhyphen"/>ver, at <hi>Blackwall</hi> or at the place where they uſually unlade their Goods, if the Weather ſhall permit; and that they unſhot all their Guns, upon penalty for every ſuch Offence to forfeit to the uſe of the Poor of the Corporation</cell>
+                     <cell>6</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item.</hi> That no manner of Pitch, Tar, or Rozen be heat aboard any Ships, Barks, or Hoyes over any Fire, but with a Shot or other Iron, upon penalty of paying to the Poor of the Corporation</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item.</hi> That all Maſters ſhall cauſe their Bread-Rooms to be dryed, and appoint able and ſufficient Men to take care of the ſame, and not to keep any Fire in their Bread-Rooms in the Night time, upon penalty of</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item.</hi> Whereas by occaſion of Dirt-Boats, which carry Fruit, Wine and Strong-Waters to ſell to Ship-Keepers and others aboard Ships, there is much wrong done to the Owners in the purloyning of Cordage and other Materials, It is therefore Ordered, that all Maſters of Ships for the preventing of the Evils aforeſaid, do from henceforth give Order to their Servants, that no Dirt-Boats be permitted to paſs in the River to have recourſe to any Ships; and all Commanders of Ships are hereby enjoyned once a Week to order the Saylers to put the Dirt into their own Boats at ſeaſonable hours in the Day, and to lay it on ſhore, and not to buy nor ſell any thing with them: And upon ſuch default of notice by the Maſter or Commander, or if any Dirt or Filth ſhall be thrown into the River, every ſuch Commander ſhall pay to the uſe of the Corporation, <hi>toties quoties,</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> And every Sailer or Servant for every neglect of his Duty therein, upon warning as aforeſaid, ſhall receive Corporal puniſhment from his Commander; or in default thereof, the Commander ſhall pay the Sum of</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Item.</hi> It is Ordered, That all Maſters of Ships ſhall have a particular Copy of the by-Laws of the ſaid Corporation, they paying the Clerk for Co<g ref="char:EOLhyphen"/>pies thereof, to the end they may be the better known and obſerved.</p>
+            <p>But if any Perſon or Perſons ſhall be found Offenders againſt the above mentioned by-Lawes and Orders, it ſhall then be left to the Liberty of the Commander of the Ship, with the advice and conſent of his Officers, either to inflict Corporal puniſhment, or receive and take the penalties afore<g ref="char:EOLhyphen"/>ſaid, for their breach of the ſaid Laws before named: But if it ſhall happen that the ſaid Perſon or Perſons have not preſent Money to ſatisfie what is Ordered for their Offence, then it may be required, that he or they ſubſcribe their Names to the Purſer's Book, that it may be defaulked out of their Wages next Pay Day following.</p>
+            <closer>
+               <signed>JAMES ASKEW, <hi>Clerk to the</hi> Corporation.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
